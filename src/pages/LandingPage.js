@@ -283,7 +283,7 @@ const LandingPage = () => {
               <div className="author">
                 <div className="author-avatar">JD</div>
                 <div className="author-info">
-                  <h4>John Doe</h4>
+                  <h4>Austin Williams</h4>
                   <p>CEO, TechStart Inc.</p>
                 </div>
               </div>
