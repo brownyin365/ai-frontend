@@ -2,7 +2,7 @@ import axios from 'axios';
 import toast from 'react-hot-toast';
 
 // Get API URL from environment with fallback
-const API_URL = process.env.REACT_APP_API_URL || 'https://ai-backend-sage-omega.vercel.app/api';
+const API_URL = process.env.REACT_APP_API_URL || 'https://ai-backend-red.vercel.app/api';
 
 console.log('🌐 API URL:', API_URL);
 console.log('📱 User Agent:', navigator.userAgent);
